@@ -63,6 +63,5 @@
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
 <script src="Scripts/app.js"></script>
 
-<body>
 </body>
 </html>
