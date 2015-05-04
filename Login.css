@@ -1,0 +1,13 @@
+
+#ShowUsers_DIV{
+  display:none;
+  clear:both;
+  margin-top:10px;
+}
+
+.center-table
+{
+  margin: 0 auto !important;
+  float: none !important;
+}
+
