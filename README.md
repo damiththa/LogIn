@@ -6,6 +6,6 @@ This application make use of,
   JQuery
   MS SQL
   CSS
-  Bootstrap
+  Bootstrap.
   
 
